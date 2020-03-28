@@ -11,7 +11,7 @@ For example, given `[10, 15, 3, 7]` and `k` of `17`, return true since `10 + 7` 
 
 **Bonus**: Can you do this in one pass?
 
-**Solution**: [here](/solutions/problem1.cpp)
+**Solution**: [Click here](/solutions/problem1.cpp)
 
 Problem #2 [Hard]
 -----------------
